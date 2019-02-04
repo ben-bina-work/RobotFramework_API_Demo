@@ -1,0 +1,1 @@
+robot --outputdir report .\TestCases\AusPost.robot
